@@ -94,7 +94,7 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 ###
 
-<h3 align="left">Stars</h3>
+<h3 align="left"> Github Streak 🤔 </h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
@@ -111,14 +111,14 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 <tr>
 <td>
 
-🛸 **GitHub Stats**  
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&theme=outrun&hide_border=true" alt="GitHub Stats" />
 
 </td>
 <td>
 
-🚁 **Most Used Languages**  
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun&stats_format=bytes&hide_border=true" alt="Top Languages" />
 

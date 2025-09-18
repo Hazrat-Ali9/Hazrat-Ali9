@@ -102,7 +102,44 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+## 🚀 GitHub Profile Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+🛸 **GitHub Stats**  
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&theme=outrun&hide_border=true" alt="GitHub Stats" />
+
+</td>
+<td>
+
+🚁 **Most Used Languages**  
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun&stats_format=bytes&hide_border=true" alt="Top Languages" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+🚂 **WakaTime Stats**  
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hazrat-Ali9&layout=compact&theme=outrun&stats_format=bytes&hide_border=true" alt="WakaTime Stats" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">✈ GitHub Statistics</h3>
 <div align="center">
 <a href="https://github.com/Hazrat-Ali9">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazrat-Ali9&theme=outrun" height="180em" />

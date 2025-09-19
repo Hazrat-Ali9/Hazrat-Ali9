@@ -94,49 +94,13 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 ###
 
-<h3 align="left"> Github Streak 🤔 </h3>
+<h3 align="left"> 🚀 GitHub Profile Stats </h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
-
-
-## 🚀 GitHub Profile Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&theme=outrun&hide_border=true" alt="GitHub Stats" />
-
-</td>
-<td>
-
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun&stats_format=bytes&hide_border=true" alt="Top Languages" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-🚂 **WakaTime Stats**  
-<br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hazrat-Ali9&layout=compact&theme=outrun&stats_format=bytes&hide_border=true" alt="WakaTime Stats" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">✈ GitHub Statistics</h3>

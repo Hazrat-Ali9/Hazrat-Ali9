@@ -102,6 +102,18 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
 
+<h2> 🤖 Problem Solving 👉 Hazrat Ali</h2>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Hazrat_Ali9">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali9&theme=outrun&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+ <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=nord&font=ABeeZee&ext=activity"alt="LeetCode Stats" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">✈ GitHub Statistics</h3>
 <div align="center">

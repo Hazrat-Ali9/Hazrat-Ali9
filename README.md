@@ -115,14 +115,14 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">✈ GitHub Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"> 🛬 GitHub Statistics</h3>
 <div align="center">
 <a href="https://github.com/Hazrat-Ali9">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazrat-Ali9&theme=outrun" height="220em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazrat-Ali9&theme=outrun" height="220em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazrat-Ali9&theme=outrun" height="220em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazrat-Ali9&theme=outrun" height="220em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=outrun" height="380em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=outrun" height="350em" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
 </div>
 

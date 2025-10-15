@@ -95,12 +95,12 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 ###
 
 <h3 align="left"> 🚀 GitHub Profile Stats </h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
+<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
+<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
 
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
+<p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
 
 <h2> 🤖 Problem Solving 👉 Hazrat Ali</h2>
 
@@ -109,14 +109,14 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali9&theme=outrun&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
- <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=catppuccinMocha&font=Adamina&ext=activity"alt="LeetCode Stats" />
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=catppuccinMocha&font=Adamina&ext=heatmap"alt="LeetCode Stats" />
-   <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=catppuccinMocha&font=Adamina&ext=contest"alt="LeetCode Stats" />
   
-
-     
+<a href="https://github.com/Hazrat-Ali9">
+ <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
+   
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=heatmap" height="290em" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=chartreuse&font=Adamina&ext=activity" height="320em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Adamina&ext=contest" height="320em" alt="LeetCode Stats" />
+    
   </a>
 </div>
 

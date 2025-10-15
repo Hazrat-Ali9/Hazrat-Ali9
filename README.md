@@ -95,9 +95,9 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 ###
 
 <h3 align="left"> 🚀 GitHub Profile Stats </h3>
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
+<img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
 
-<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
+<p>&nbsp;<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
 
 
 <p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
@@ -113,7 +113,7 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 <a href="https://github.com/Hazrat-Ali9">
  <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
    
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=heatmap" height="290em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=heatmap" height="280em" alt="LeetCode Stats" />
     <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=chartreuse&font=Adamina&ext=activity" height="320em" alt="LeetCode Stats" />
    <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Adamina&ext=contest" height="320em" alt="LeetCode Stats" />
     

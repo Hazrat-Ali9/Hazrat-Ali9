@@ -111,7 +111,12 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
   &nbsp;&nbsp;&nbsp;
 
  <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=nord&font=ABeeZee&ext=activity"alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=catppuccinMocha&font=Adamina&ext=activity"alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=catppuccinMocha&font=Adamina&ext=heatmap"alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=catppuccinMocha&font=Adamina&ext=contest"alt="LeetCode Stats" />
+  
+
+     
   </a>
 </div>
 

@@ -102,8 +102,6 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 <p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=Hazrat-Ali9&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
 <h2> 🤖 Problem Solving 👉 Hazrat Ali</h2>
 
 <p align="center">

@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hazrat-Ali9.Hazrat-Ali9&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hazrat-Ali9.Hazrat-Ali9&" />
 </div>
 
 ###
@@ -43,52 +43,111 @@
 Kompetent im MERN-Stack und in Python:
 Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, React, Node.js) und nutze die Leistungsfähigkeit dieser Technologien, um dynamische und skalierbare Anwendungen zu erstellen. Darüber hinaus beherrsche ich auch Python und hatte das Vergnügen, an verschiedenen Projekten zu arbeiten unter anderem mit dem Django-Framework.</p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const HazratAli = {
+    location: "📍 Berlin, Germany 🇩🇪 ",
+    role: "🚁 Researcher | 💻 Programmer | 🚀 Entrepreneur | 🛸Businessman ",
+    education: "B.Sc. in Software Engineering",
+    university: "University of Scholars",
+    experience: "5+ Years",
+    expertise: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "MySQL"],
+        languages: ["JavaScript", "TypeScript", "C++", "Java", "Python"]
+    },
+    focus: ["MERN Stack", "Problem Solving", "Open Source"],
+    currently: "Building scalable web applications",
+    contact: {
+        email: "programmer.hazratali@gmail.com",
+        portfolio: "https://hazrat-ali-portfolio.vercel.app"
+    },
+    Hazrat Ali : "Stay Hungry, Stay Foolish 🤫"
+};
+```
+
+<br clear="right"/>
+
+### 🎯 **Current Focus**
+
+```yaml
+🌟 Current Focus
+
+I am a passionate Competitive Programmer dedicated to improving problem-solving skills every day.
+I actively practice on multiple platforms and constantly push myself toward higher ratings 🚀
+
+💻 Achievements
+
+🟢 HackerRank: 500+ problems solved
+
+🔵 Codeforces: Specialist
+
+🟠 CodeChef: 3★
+
+🟣 LeetCode: 300+ days active problem solving
+
+🎯 What I Do
+
+Sharpen algorithms & data structures skills daily
+Solve challenging problems 🔥
+Participate in contests regularly ⚔️
+Learn and grow through competitive programming 📈
+```
+
+### 📊 **Professional Highlights**
+
+<div align="center">
+
+| 💼 Experience | 🏆 Projects | 📜 Certifications | 💻 Technologies |
+|:---:|:---:|:---:|:---:|
+| **5+ Years** | **50+** | **20+** | **25+** |
+| Web Development | Completed | Google, Microsoft, HackerRank | Tech Stack |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+## 🛠️ **Tech Stack & Tools**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻 Programming Languages</strong></td>
+      <td align="center"><strong>🗄️ Databases</strong></td>
+      <td align="center"><strong>⚡ Frameworks & Libraries</strong></td>
+      <td align="center"><strong>🔧 Tools & Platforms</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Hazrat-Ali9">
+          <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py" alt="Programming Languages">
+        </a>
+      </td> 
+      <td align="center">
+        <a href="https://github.com/Hazrat-Ali9">
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" alt="Databases">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Hazrat-Ali9">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/reduanahmadswe">
+          <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,postman,figma" alt="Tools & Platforms">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-<!-- (language logos same as before) -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-</div>
 
 
 
@@ -102,7 +161,47 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 <p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
 
-<h2> 🤖 Problem Solving 👉 Hazrat Ali</h2>
+
+
+## 🏆 **Competitive Programming Arena 👇**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻 Codechef</strong></td>
+      <td align="center"><strong>🎯 HackerRank</strong></td>
+      <td align="center"><strong>📚 Codeforces</strong></td>
+      <td align="center"><strong>🏅 Leetcode</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/hazrat_ali9">
+          <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/Hazrat_Ali9">
+          <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/Hazrat_Ali9">
+          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/Hazrat-Ali9">
+          <img src="https://img.shields.io/badge/Leetcode-7C3AED?style=for-the-badge&logoColor=white" height="35"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
 
 <p align="center">
   <a href="https://codeforces.com/profile/Hazrat_Ali9">

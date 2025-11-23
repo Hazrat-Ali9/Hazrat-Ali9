@@ -47,7 +47,7 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 ```javascript
 const HazratAli = {
-    location: "📍 Berlin, Germany 🇩🇪 ",
+    location: "📍 Dhaka, Bangladesh ",
     role: "🚁 Researcher | 💻 Programmer | 🚀 Entrepreneur | 🛸Businessman ",
     education: "B.Sc. in Software Engineering",
     university: "University of Scholars",

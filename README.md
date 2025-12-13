@@ -227,12 +227,19 @@ Learn and grow through competitive programming 📈
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazrat-Ali9&theme=outrun" height="220em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazrat-Ali9&theme=outrun" height="220em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=outrun" height="350em" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
+<img src="https://profile-readme-generator.com/assets/snake.svg"
 </div>
 
 </div>
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app?username=Hazrat-Ali9&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+   ## 🏆 GitHub Trophies
+<p align="center">
+  <img width="660" src="https://github.com/user-attachments/assets/18a2266c-9a88-4882-940d-162c0c4d36e0">
+</p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
+</p>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

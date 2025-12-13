@@ -235,10 +235,11 @@ Learn and grow through competitive programming 📈
 
    ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="660" src="https://github.com/user-attachments/assets/18a2266c-9a88-4882-940d-162c0c4d36e0">
+  <img width="660" src="https://github-trophies.vercel.app/?username=Hazrat-Ali9&theme=aura">
+  
 </p>
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=Hazrat-Ali9&theme=buddhism"> 
 </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />

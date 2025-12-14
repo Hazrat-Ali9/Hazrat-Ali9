@@ -239,7 +239,7 @@ Learn and grow through competitive programming 📈
   
 </p>
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=Hazrat-Ali9&theme=buddhism"> 
+  
 </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />

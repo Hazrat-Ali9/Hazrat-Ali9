@@ -235,7 +235,7 @@ Learn and grow through competitive programming 📈
 
    ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="660" src="https://github-trophies.vercel.app/?username=Hazrat-Ali9&theme=aura">
+  <img width="660" src="https://github-trophies.vercel.app/?username=Hazrat-Ali9&theme=matrix">
   
 </p>
 <p align="center">

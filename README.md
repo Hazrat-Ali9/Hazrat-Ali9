@@ -79,13 +79,13 @@ I actively practice on multiple platforms and constantly push myself toward high
 
 💻 Achievements
 
-🟢 HackerRank: 500+ problems solved
+🟢 HackerRank: 1000+ problems solved
 
 🔵 Codeforces: Specialist
 
-🟠 CodeChef: 3★
+🟠 CodeChef: 4★
 
-🟣 LeetCode: 300+ days active problem solving
+🟣 LeetCode: 330+ days active problem solving
 
 🎯 What I Do
 

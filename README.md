@@ -81,7 +81,7 @@ I actively practice on multiple platforms and constantly push myself toward high
 
 🟢 HackerRank: 1000+ problems solved
 
-🔵 Codeforces: Specialist
+🔵 Codeforces: Expert
 
 🟠 CodeChef: 4★
 

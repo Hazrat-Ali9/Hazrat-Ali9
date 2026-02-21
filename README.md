@@ -204,7 +204,7 @@ Learn and grow through competitive programming 📈
 
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Hazrat_Ali9">
+  <a href="https://codeforces.com/profile/Hazrat-Ali9">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali9&theme=outrun&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;

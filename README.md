@@ -185,7 +185,7 @@ Learn and grow through competitive programming 📈
         </a>
       </td>
       <td align="center">
-        <a href="https://codeforces.com/profile/Hazrat_Ali9">
+        <a href="https://codeforces.com/profile/Hazrat-Ali9">
           <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35">
         </a>
       </td>

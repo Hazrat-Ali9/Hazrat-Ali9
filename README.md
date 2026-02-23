@@ -185,7 +185,7 @@ Learn and grow through competitive programming 📈
         </a>
       </td>
       <td align="center">
-        <a href="https://codeforces.com/profile/Hazrat-Ali9">
+        <a href="">
           <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35">
         </a>
       </td>
@@ -204,7 +204,7 @@ Learn and grow through competitive programming 📈
 
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Hazrat-Ali9">
+  <a href="">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali9&theme=outrun&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;

@@ -83,7 +83,7 @@ I actively practice on multiple platforms and constantly push myself toward high
 
 🔵 Codeforces: Expert
 
-🟠 CodeChef: 4★
+🟠 CodeChef: 5★
 
 🟣 LeetCode: 330+ days active problem solving
 

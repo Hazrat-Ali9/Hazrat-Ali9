@@ -154,12 +154,12 @@ Learn and grow through competitive programming 📈
 ###
 
 <h3 align="left"> 🚀 GitHub Profile Stats </h3>
-<img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=outrun" alt=Hazrat-Ali9 />
+<img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=onedark" alt=Hazrat-Ali9 />
 
-<p>&nbsp;<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=outrun" alt="Hazrat-Ali9" /></p>
+<p>&nbsp;<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=onedark" alt="Hazrat-Ali9" /></p>
 
 
-<p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=outrun" alt="Hazrat-Ali9" /></p>
+<p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=onedark" alt="Hazrat-Ali9" /></p>
 
 
 
@@ -205,16 +205,16 @@ Learn and grow through competitive programming 📈
 
 <p align="center">
   <a href="">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali9&theme=outrun&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat-Fatema&theme=onedark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
 <a href="https://github.com/Hazrat-Ali9">
  <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
    
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=heatmap" height="285em" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=chartreuse&font=Adamina&ext=activity" height="320em" alt="LeetCode Stats" />
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=unicorn&font=Adamina&ext=contest" height="320em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=forest" height="285em" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=chartreuse&font=Adamina&ext=forest" height="320em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=unicorn&font=Adamina&ext=forest" height="320em" alt="LeetCode Stats" />
     
   </a>
 </div>
@@ -222,11 +222,11 @@ Learn and grow through competitive programming 📈
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"> 🛬 GitHub Statistics</h3>
 <div align="center">
 <a href="https://github.com/Hazrat-Ali9">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazrat-Ali9&theme=outrun" height="220em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazrat-Ali9&theme=outrun" height="220em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazrat-Ali9&theme=outrun" height="220em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazrat-Ali9&theme=outrun" height="220em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=outrun" height="350em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazrat-Ali9&theme=onedark" height="220em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazrat-Ali9&theme=onedark" height="220em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazrat-Ali9&theme=onedark" height="220em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazrat-Ali9&theme=onedark" height="220em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=onedark" height="350em" />
 <img src="https://profile-readme-generator.com/assets/snake.svg"
 </div>
 
@@ -235,12 +235,12 @@ Learn and grow through competitive programming 📈
 
    ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="660" src="https://github-trophies.vercel.app/?username=Hazrat-Ali9&theme=matrix">
+  <img width="660" src="https://github-trophies.vercel.app/?username=Hazrat-Ali9&theme=onedark">
   
 </p>
 <p align="center">
   
 </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

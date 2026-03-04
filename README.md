@@ -212,9 +212,9 @@ Learn and grow through competitive programming 📈
 <a href="https://github.com/Hazrat-Ali9">
  <a href="https://leetcode.com/u/Hazrat-Ali9/" target="_blank">
   
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=nord&font=Adamina&ext=activity" height="320em" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=contest" height="320em" alt="LeetCode Stats" />
-   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=unicorn&font=Adamina&ext=heatmap" height="320em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=nord&font=Adamina&ext=activity" height="295em" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=forest&font=Adamina&ext=contest" height="310em" alt="LeetCode Stats" />
+   <img src="https://leetcard.jacoblin.cool/Hazrat-Ali9?theme=unicorn&font=Adamina&ext=heatmap" height="310em" alt="LeetCode Stats" />
     
   </a>
 </div>

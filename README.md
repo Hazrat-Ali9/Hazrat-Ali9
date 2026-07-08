@@ -205,7 +205,7 @@ Learn and grow through competitive programming 📈
 
 <p align="center">
   <a href="">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali_Genius&theme=onedark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hazrat_Ali_9&theme=onedark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;
   

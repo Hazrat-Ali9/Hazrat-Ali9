@@ -47,7 +47,7 @@ Ich bin versiert in der Entwicklung mit dem MERN-Stack (MongoDB, Express.js, Rea
 
 ```javascript
 const HazratAli = {
-    location: "📍 Dhaka, Bangladesh ",
+    location: "📍 Berlin, Germany ",
     role: "🚁 Researcher | 💻 Programmer | 🚀 Entrepreneur | 🛸Businessman ",
     education: "B.Sc. in Software Engineering",
     university: "University of Scholars",
@@ -61,7 +61,7 @@ const HazratAli = {
     currently: "Building scalable web applications",
     contact: {
         email: "programmer.hazratali@gmail.com",
-        portfolio: "https://hazrat-ali-portfolio.vercel.app"
+        portfolio: "https://hazratali.dev/"
     },
     Hazrat Ali : "Stay Hungry, Stay Foolish 🤫"
 };
@@ -81,7 +81,7 @@ I actively practice on multiple platforms and constantly push myself toward high
 
 🟢 HackerRank: 1000+ problems solved
 
-🔵 Codeforces: Expert
+🔵 Codeforces: International Master
 
 🟠 CodeChef: 5★
 
